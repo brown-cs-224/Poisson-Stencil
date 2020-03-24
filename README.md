@@ -1,2 +1,2 @@
-# Mesh-Stencil
-Starter code for CS 224 Assignment 2
+# Poisson-Stencil
+Starter code for CS 224 Assignment 4
